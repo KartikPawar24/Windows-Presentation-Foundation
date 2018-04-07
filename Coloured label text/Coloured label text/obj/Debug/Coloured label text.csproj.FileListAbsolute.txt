@@ -1,0 +1,15 @@
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\bin\Debug\Coloured label text.exe.config
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\bin\Debug\Coloured label text.exe
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\bin\Debug\Coloured label text.pdb
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.csprojResolveAssemblyReference.cache
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\MainWindow.g.cs
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\App.g.cs
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text_MarkupCompile.cache
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text_MarkupCompile.lref
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\MainWindow.baml
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.g.resources
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured_label_text.Properties.Resources.resources
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.csproj.GenerateResource.Cache
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.csproj.CoreCompileInputs.cache
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.exe
+G:\Visual Studio Programs\Visual Studio WPF\Coloured label text\Coloured label text\obj\Debug\Coloured label text.pdb

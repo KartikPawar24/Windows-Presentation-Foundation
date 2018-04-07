@@ -1,0 +1,21 @@
+﻿<Window x:Class="Coloured_label_text.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coloured_label_text"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="tbname" HorizontalAlignment="Left" Height="22" Margin="175,25,0,0" TextWrapping="Wrap" Text="Coloured Label Text" VerticalAlignment="Top" Width="157" FontSize="14"/>
+        <Button x:Name="btnred" Content="Red" HorizontalAlignment="Left" Height="20" Margin="63,71,0,0" VerticalAlignment="Top" Width="79" Click="btnred_Click"/>
+        <Button x:Name="btnblue" Content="Blue" HorizontalAlignment="Left" Height="20" Margin="164,71,0,0" VerticalAlignment="Top" Width="79" Click="btnblue_Click"/>
+        <Button x:Name="btngreen" Content="Green" HorizontalAlignment="Left" Height="20" Margin="262,71,0,0" VerticalAlignment="Top" Width="79" Click="btngreen_Click"/>
+        <Button x:Name="btnviolet" Content="Violet" HorizontalAlignment="Left" Height="20" Margin="367,71,0,0" VerticalAlignment="Top" Width="79" Click="btnviolet_Click"/>
+        <Label x:Name="lblred" Content="" HorizontalAlignment="Left" Height="25" Margin="119,121,0,0" VerticalAlignment="Top" Width="111" Foreground="#FFFF0606"/>
+        <Label x:Name="lblblue" Content="" HorizontalAlignment="Left" Height="25" Margin="262,121,0,0" VerticalAlignment="Top" Width="111" Foreground="#FF0426FF"/>
+        <Label x:Name="lblgreen" Content="" HorizontalAlignment="Left" Height="25" Margin="119,166,0,0" VerticalAlignment="Top" Width="111" Foreground="#FF20FF0A"/>
+        <Label x:Name="lblviolet" Content="" HorizontalAlignment="Left" Height="25" Margin="262,166,0,0" VerticalAlignment="Top" Width="111" Foreground="#FF903BD6"/>
+
+    </Grid>
+</Window>
