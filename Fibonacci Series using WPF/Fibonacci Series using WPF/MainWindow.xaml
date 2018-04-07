@@ -1,0 +1,19 @@
+﻿<Window x:Class="Fibonacci_Series_using_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fibonacci_Series_using_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="tblname" HorizontalAlignment="Left" Margin="183,31,0,0" TextWrapping="Wrap" Text="Fibonacci Series" VerticalAlignment="Top" Height="25" Width="128" FontSize="16"/>
+        <TextBlock x:Name="tblnum" HorizontalAlignment="Left" Height="24" Margin="152,79,0,0" TextWrapping="Wrap" Text="Enter nth value:" VerticalAlignment="Top" Width="92"/>
+        <TextBlock x:Name="tblres" HorizontalAlignment="Left" Height="24" Margin="152,123,0,0" TextWrapping="Wrap" Text="Result is:" VerticalAlignment="Top" Width="92" FontSize="18"/>
+        <TextBox x:Name="txtnum" HorizontalAlignment="Left" Height="24" Margin="268,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92"/>
+        <TextBox x:Name="txtres" HorizontalAlignment="Left" Height="24" Margin="268,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92"/>
+        <Button x:Name="btncom" Content="Compute" HorizontalAlignment="Left" Margin="152,179,0,0" VerticalAlignment="Top" Width="92" Height="35" FontSize="20" Click="btncom_Click"/>
+        <Button x:Name="btnclr" Content="Clear" HorizontalAlignment="Left" Height="35" Margin="268,179,0,0" VerticalAlignment="Top" Width="92" FontSize="20" Click="btnclr_Click"/>
+
+    </Grid>
+</Window>
