@@ -1,0 +1,15 @@
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\bin\Debug\Arithmtic Operations using WPF.exe.config
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\bin\Debug\Arithmtic Operations using WPF.exe
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\bin\Debug\Arithmtic Operations using WPF.pdb
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.csprojResolveAssemblyReference.cache
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\MainWindow.g.cs
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\App.g.cs
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF_MarkupCompile.cache
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF_MarkupCompile.lref
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\MainWindow.baml
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.g.resources
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic_Operations_using_WPF.Properties.Resources.resources
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.csproj.GenerateResource.Cache
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.csproj.CoreCompileInputs.cache
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.exe
+G:\Visual Studio Programs\Visual Studio WPF\Arithmtic Operations using WPF\Arithmtic Operations using WPF\obj\Debug\Arithmtic Operations using WPF.pdb
